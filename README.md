@@ -1,16 +1,39 @@
-### Hi there 👋
 
-<!--
-**warl0ckwraith/warl0ckwraith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="counter", align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shivanshdgr8&style=flat-square&color=green" alt="Counter"/>
+ </div>
 
-Here are some ideas to get you started:
+<h1 align="center">
+  Hello World!
+  <img src="https://media.giphy.com/media/RqCkhwVvVRWOOrDoI6/giphy.gif" width="40px"/>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+i+am+Sanidhya%2C+working+as+Security+Engineer+Intern+@+CyberWarFare+Labs;Sometimes+I+play+CTFs+Sometimes+I+develop+them.)](https://git.io/typing-svg)
+
+```css
+❯ mefetch
+```
+
+<div style="display:block;text-align:left"><img align="left" src="https://raw.githubusercontent.com/warl0ckwraith/warl0ckwraith/main/arch.png" border="0" style="width:156px;">
+  
+  ```css
+  About@Me
+  -----------------
+  Name: ["Sanidhya Soni"]
+  Role: ["Security Engineer Intern"]
+  Organization: ["CyberWarFare Labs"]
+  Education: ["Pursuing 2nd Year in B.Tech. Computer Science Engineering"]
+  Specialization: ["Penetration Testing & CTF Development"]
+  Certifications: ["OSCP, OSWP, CNSP, CAP"]
+```
+### :hammer_and_wrench: Languages I know :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+</div>
+
+---
+
+
+
