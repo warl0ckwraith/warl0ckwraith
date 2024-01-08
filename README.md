@@ -9,7 +9,7 @@
 </h1>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+i+am+Sanidhya;Sometimes+I+play+CTFs+Sometimes+I+develop+them.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+i+am+Sanidhya+Sometimes+I+play+CTFs;Sometimes+I+develop+them.)](https://git.io/typing-svg)
 
 ```css
 ❯ mefetch
