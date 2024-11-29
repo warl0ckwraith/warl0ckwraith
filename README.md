@@ -23,7 +23,7 @@
   Name: ["Sanidhya Soni"]
   Role: ["Security Engineer Intern"]
   Organization: ["CyberWarFare Labs"]
-  Education: ["Pursuing 2nd Year in B.Tech. Computer Science Engineering"]
+  Education: ["Pursuing 3rd Year in B.Tech. Computer Science Engineering"]
   Specialization: ["Penetration Testing & CTF Development"]
   Certifications: ["OSCP, OSWP, CNSP, CAP"]
 ```
