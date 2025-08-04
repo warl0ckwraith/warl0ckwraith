@@ -21,10 +21,9 @@
   About@Me
   -----------------
   Name: ["Sanidhya Soni"]
-  Role: ["Security Engineer Intern"]
-  Organization: ["Indian Army"]
-  Education: ["Pursuing 3rd Year in B.Tech. Computer Science Engineering"]
-  Specialization: ["Penetration Testing & CTF Development"]
+  Role: ["Security Engineer"]
+  Education: ["Final Year, B.Tech. Computer Science Engineering"]
+  Specialization: ["Security Engineering, Penetration Testing & CTF Development"]
   Certifications: ["OSCP, OSWP, CNSP, CAP"]
 ```
 ### :hammer_and_wrench: Tech Stack :
